@@ -1,7 +1,7 @@
 ## Hi 👋
 ### 📢 I’m currently learning 'Python'
 ### 🦁 LikeLion at SCH
-![qhahd78's github](https://github-readme-stats.vercel.app/api?username=qhahd78&show_icons=true)
+![qhahd78's github stats](https://github-readme-stats.vercel.app/api?username=qhahd78&show_icons=true)
 <!--
 **qhahd78/qhahd78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
