@@ -1,5 +1,5 @@
 ## Hi 👋
-### 🔭 I’m currently learning 'Python'
+### 📢 I’m currently learning 'Python'
 ### 🦁 LikeLion at SCH
 ![qhahd78's github](https://github-readme-stats.vercel.app/api?username=qhahd78&show_icons=true)
 <!--
