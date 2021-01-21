@@ -1,5 +1,4 @@
 ### 🦁 LikeLion at SCH
-[![qhahd78's github stats](https://github-readme-stats.vercel.app/api?username=qhahd78)](https://github.com/anuraghazra/github-readme-stats?theme=radical)
 ![qhahd78's github stats](https://github-readme-stats.vercel.app/api?username=qhahd78&show_icons=true&theme=radical)
 
 <!--
