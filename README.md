@@ -1,5 +1,5 @@
-### 🦁 LikeLion at SCH 8th member
-### 🦁 LikeLion at SCH 9th organizer
+### 🦁 LikeLion at SCH 8th Member
+### 🦁 LikeLion at SCH 9th Organizer
 ![qhahd78's github stats](https://github-readme-stats.vercel.app/api?username=qhahd78&show_icons=true&)
 
 <!--
