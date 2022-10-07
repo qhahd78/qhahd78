@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://velog.io/@qhahd78" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://bush-boar-c01.notion.site/Front-End-Developer-507dcc40f0a24be6b2c972a806decec5" target="_blank"><img src="https://img.shields.io/badge/Portfolio-EA7100?style=flat-square&logo=Devpost&logoColor=white"/></a> 
+<a href="https://bush-boar-c01.notion.site/Front-End-Developer-0afeb3eacf2b430ca923f6abe0e99c4d" target="_blank"><img src="https://img.shields.io/badge/Portfolio-EA7100?style=flat-square&logo=Devpost&logoColor=white"/></a> 
